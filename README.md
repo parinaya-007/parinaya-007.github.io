@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my website
 
-You can use the [editor on GitHub](https://github.com/parinaya-007/parinaya-007.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The link to my resume is [here](http://parinaya-007.github.io/resume.pdf).
 
 ### Markdown
 
