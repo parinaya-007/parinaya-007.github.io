@@ -1,6 +1,6 @@
 ## Welcome to my website
 
-The link to my resume is [here](http://parinaya-007.github.io/resume.pdf).
+The link to my resume is [here](https://github.com/parinaya-007/parinaya-007.github.io/master/Resume.pdf).
 
 ### Markdown
 
