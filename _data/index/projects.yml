@@ -5,7 +5,7 @@
   i18n: parinaya
   gh_user: parinaya-007
   repo: pico-read-speaker
-  # img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/picoreadspeak.png
   desc: This project is my project. I use python in this project.
 
 - name: DP GUI
