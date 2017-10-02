@@ -1,0 +1,15 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: CDAC
+    i18n: company_a
+  desc:
+    detail: I worked at CDAC ...
+    i18n: company_a_desc
+  date:
+    detail: June. 2017
+    i18n: company_a_date
+  job:
+    detail: Internship
+    i18n: company_a_job
+  icon: fa-plus-square

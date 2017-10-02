@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Git, Machine Learning, Python, C++, Java, Artificial Intelligence, CUDA, Hadoop and MapReduce
+percentage: 75, 65, 75, 80, 50, 50, 60, 45
