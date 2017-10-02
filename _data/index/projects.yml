@@ -8,15 +8,16 @@
   # img: /static/assets/img/landing/jekyll.png
   desc: This project is my project. I use python in this project.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
-
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: DP GUI
+  i18n: parinaya
+  gh_user: parinaya-007
+  repo: dp_easygui
+  # img: /static/assets/img/landing/jekyll.png
+  desc: This was a part of our project Design Practicum 2k17. This is basically the gui for our end project.
+  
+- name: Miwok App
+  i18n: parinaya
+  gh_user: parinaya-007
+  repo: ud839_Miwok
+  # img: /static/assets/img/landing/jekyll.png
+  desc: An app for learning Miwok language for tribal people forgetting their native language.
