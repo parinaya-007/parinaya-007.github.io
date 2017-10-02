@@ -2559,6 +2559,11 @@ body {
         opacity: 0;
         -webkit-transition-property: opacity;
         transition-property: opacity;
+        &.left, &.right {
+          left: 0;
+          opacity: 0;
+          z-index: 1;
+        }
       }
       .active {
         opacity: 1;
