@@ -28,3 +28,17 @@
     detail: Internship
     i18n: company_b_job
   icon: fa-plus-square
+  
+- name:
+    detail: Siemens Technology and Services Pvt. Ltd.
+    i18n: company_c
+  desc:
+    detail: Digital Assistant for automated knowledge extraction from PDFs and docx files integrated with Slack
+    and Siemens internal communication platform.
+  date:
+    detail: Dec, 2017 - Feb, 2018
+    i18n: company_c_date
+  job:
+    detail: Internship
+    i18n: company_c_job
+  icon: fa-plus-square
